@@ -1,5 +1,5 @@
 let main = document.getElementById('main');
-let count = 50;
+let count = 70;
 for(let i = 0; i<count; i++){
     let leftSnow = Math.floor(Math.random() * main.clientWidth);
     let topSnow = Math.floor(Math.random() * main.clientHeight);
